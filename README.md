@@ -95,14 +95,6 @@ The goal of the game is to draw a hand with a value greater than the dealer's as
 	* If the hand is worth less than 17, the dealer must hit until it is 17 or greater
 * If a dealer busts and the player has not, then player wins the round
 
-## Planned Features
-
-* Side rules
-* Multiple players
-* An option to play as the dealer
-* Saving player stats to a local SQLite database
-* Socket-based multiplayer
-
 ## Contributing
 
 1. Fork it ( https://github.com/pori/twenty-one/fork )
